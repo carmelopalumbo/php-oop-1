@@ -1,4 +1,5 @@
 <?php
+include 'getmovies.php';
 
 class Movie
 {

@@ -1,7 +1,7 @@
 <?php
 
 include './models/Movie.php';
-include 'movies.php';
+include 'getmovies.php';
 
 //var_dump($moviesList);
 
