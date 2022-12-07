@@ -31,4 +31,10 @@ class Movie
     {
         $this->wikiPage = $_wikiPage;
     }
+
+    //add genre in a movie
+    public function addGenre($_newGenre)
+    {
+        $this->genre .=  ', ' . $_newGenre;
+    }
 }

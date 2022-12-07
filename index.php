@@ -8,6 +8,8 @@ $movie1->setPoster("https://i.etsystatic.com/27089413/r/il/58d4b8/2843327847/il_
 $movie3->setPoster("https://m.media-amazon.com/images/I/91QkSivUP9L._SL1500_.jpg");
 $movie6->setPoster("https://static.posters.cz/image/750/poster/scarface-movie-i8166.jpg");
 
+$movie1->addGenre("Fantasy");
+
 //array with movie objects
 $moviesList = [$movie1, $movie2, $movie3, $movie4, $movie5, $movie6];
 
