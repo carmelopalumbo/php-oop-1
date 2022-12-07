@@ -1,13 +1,7 @@
 <?php
 
-include './class/Movie.php';
-
-$movie1 = new Movie("Avatar", 2009, "Adventure");
-$movie2 = new Movie("Interstellar", 2014, "Sci-Fi");
-$movie3 = new Movie("The Truman Show", 1998, "Drama");
-$movie4 = new Movie("The Revenant", 2015, "Adventure");
-$movie5 = new Movie("Green Book", 2018, "Comedy");
-$movie6 = new Movie("Scarface", 1984, "Noir");
+include './models/Movie.php';
+include 'db.php';
 
 //set posters with method
 $movie1->setPoster("https://i.etsystatic.com/27089413/r/il/58d4b8/2843327847/il_570xN.2843327847_paoy.jpg");
