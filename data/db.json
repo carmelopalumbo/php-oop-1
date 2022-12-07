@@ -1,32 +1,51 @@
-[
-    {
-        "title" : "Avatar",
-        "year" : 2009,
-        "genre" : "Adventure"
+{
+    "Avatar": {
+        "title": "Avatar",
+        "year": 2009,
+        "poster": "https:\/\/www.pacificfoodmachinery.com.au\/media\/catalog\/product\/placeholder\/default\/no-product-image-400x400.png",
+        "genre": "Adventure",
+        "wikiPage": "ND"
     },
-    {
-        "title" : "Interstellar",
-        "year" : 2014,
-        "genre" : "Sci-Fi"
+    "Interstellar": {
+        "title": "Interstellar",
+        "year": 2014,
+        "poster": "https:\/\/www.pacificfoodmachinery.com.au\/media\/catalog\/product\/placeholder\/default\/no-product-image-400x400.png",
+        "genre": "Sci-Fi",
+        "wikiPage": "ND"
     },
-    {
-        "title" : "The Truman Show",
-        "year" : 1998,
-        "genre" : "Drama"
+    "The Truman Show": {
+        "title": "The Truman Show",
+        "year": 1998,
+        "poster": "https:\/\/www.pacificfoodmachinery.com.au\/media\/catalog\/product\/placeholder\/default\/no-product-image-400x400.png",
+        "genre": "Drama",
+        "wikiPage": "ND"
     },
-    {
-        "title" : "The Revenant",
-        "year" : 2015,
-        "genre" : "Adventure"
+    "The Revenant": {
+        "title": "The Revenant",
+        "year": 2015,
+        "poster": "https:\/\/www.pacificfoodmachinery.com.au\/media\/catalog\/product\/placeholder\/default\/no-product-image-400x400.png",
+        "genre": "Adventure",
+        "wikiPage": "ND"
     },
-    {
-        "title" : "Green Book",
-        "year" : 2018,
-        "genre" : "Comedy"
+    "Green Book": {
+        "title": "Green Book",
+        "year": 2018,
+        "poster": "https:\/\/www.pacificfoodmachinery.com.au\/media\/catalog\/product\/placeholder\/default\/no-product-image-400x400.png",
+        "genre": "Comedy",
+        "wikiPage": "ND"
     },
-    {
-        "title" : "Scarface",
-        "year" : 1984,
-        "genre" : "Noir"
+    "Scarface": {
+        "title": "Scarface",
+        "year": 1984,
+        "poster": "https:\/\/www.pacificfoodmachinery.com.au\/media\/catalog\/product\/placeholder\/default\/no-product-image-400x400.png",
+        "genre": "Noir",
+        "wikiPage": "ND"
+    },
+    "Black Panther: Wakanda Forever": {
+        "title": "Black Panther: Wakanda Forever",
+        "year": "2022",
+        "poster": "https:\/\/media-assets.wired.it\/photos\/636a667928cfdbb7ed825ae0\/master\/pass\/Black-Panther.jpg",
+        "genre": "Fantasy",
+        "wikiPage": "https:\/\/it.wikipedia.org\/wiki\/Black_Panther:_Wakanda_Forever"
     }
-]
+}

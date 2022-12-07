@@ -3,6 +3,16 @@ body{
     background-color: #191919;
 }
 
+.container{
+    border-bottom: 2px solid #E50914;
+}
+
+.container i{
+    font-size: 2rem;
+    color: #E50914;
+    border: 2px dotted #E50914;
+    padding: 8px;
+}
 .card{
     border: 1px solid #E50914;
     background-color: rgb(240, 237, 226);
@@ -14,6 +24,5 @@ body{
 }
 
 h1{
-    border-bottom: 2px solid #E50914;
     color: #E50914;
 }
