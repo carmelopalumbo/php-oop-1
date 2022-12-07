@@ -1,0 +1,32 @@
+[
+    {
+        "title" : "Avatar",
+        "year" : 2009,
+        "genre" : "Adventure"
+    },
+    {
+        "title" : "Interstellar",
+        "year" : 2014,
+        "genre" : "Sci-Fi"
+    },
+    {
+        "title" : "The Truman Show",
+        "year" : 1998,
+        "genre" : "Drama"
+    },
+    {
+        "title" : "The Revenant",
+        "year" : 2015,
+        "genre" : "Adventure"
+    },
+    {
+        "title" : "Green Book",
+        "year" : 2018,
+        "genre" : "Comedy"
+    },
+    {
+        "title" : "Scarface",
+        "year" : 1984,
+        "genre" : "Noir"
+    }
+]

@@ -1,19 +1,13 @@
 <?php
 
 include './models/Movie.php';
-include 'db.php';
-
-//set posters with method
-$movie1->setPoster("https://i.etsystatic.com/27089413/r/il/58d4b8/2843327847/il_570xN.2843327847_paoy.jpg");
-$movie3->setPoster("https://m.media-amazon.com/images/I/91QkSivUP9L._SL1500_.jpg");
-$movie6->setPoster("https://static.posters.cz/image/750/poster/scarface-movie-i8166.jpg");
-
-$movie1->addGenre("Fantasy");
-
-//array with movie objects
-$moviesList = [$movie1, $movie2, $movie3, $movie4, $movie5, $movie6];
+include 'movies.php';
 
 //var_dump($moviesList);
+
+$moviesList['Interstellar']->setPoster("https://m.media-amazon.com/images/I/A1JVqNMI7UL._SL1500_.jpg");
+
+
 ?>
 
 <!DOCTYPE html>
