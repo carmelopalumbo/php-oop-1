@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background-color: #191919;
+}
+
+.card{
+    border: 1px solid #E50914;
+    background-color: rgb(240, 237, 226);
+}
+.card img{
+    width: 270px;
+    height: 280px;
+    object-fit: cover;
+}
+
+h1{
+    border-bottom: 2px solid #E50914;
+    color: #E50914;
+}
